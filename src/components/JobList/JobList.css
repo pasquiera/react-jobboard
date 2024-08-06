@@ -1,0 +1,40 @@
+.jobContainer {
+    display: flex;
+    margin-top: 50px;
+}
+
+.jobList {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 300px;
+}
+
+.jobTitles {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.jobList h3 {
+    margin: 0;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.individual {
+    width: 100%;
+    margin-top: 10px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.jobDescription {
+    margin-left: 50px;
+    flex: 1;
+    padding: 10px;
+    border-left: 1px solid #ddd;
+    min-height: 200px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    background-color: white;
+}

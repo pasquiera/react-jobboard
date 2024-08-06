@@ -1,0 +1,1662 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "TechCorp Inc.",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "description": "Develop and maintain web applications using React and Node.js. Collaborate with cross-functional teams to deliver high-quality software.",
+      "salary": "$120,000 - $150,000",
+      "postedDate": "2024-08-01",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "3+ years of experience in software development",
+        "Proficiency in JavaScript, React, and Node.js"
+      ],
+      "benefits": [
+        "Health insurance",
+        "401(k) matching",
+        "Remote work option"
+      ],
+      "category": [
+        "Software Engineering",
+        "Programming",
+        "Web Development",
+        "JavaScript",
+        "React"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Product Manager",
+      "company": "Innovate Ltd.",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "description": "Lead product development from ideation to launch. Work with engineering, marketing, and sales teams to drive product success.",
+      "salary": "$100,000 - $130,000",
+      "postedDate": "2024-08-02",
+      "requirements": [
+        "5+ years of product management experience",
+        "Strong understanding of market trends and customer needs",
+        "Excellent communication and leadership skills"
+      ],
+      "benefits": [
+        "Stock options",
+        "Flexible working hours",
+        "Annual bonus"
+      ],
+      "category": [
+        "Product Management",
+        "Leadership",
+        "Strategy",
+        "Marketing",
+        "Business Development"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "UX Designer",
+      "company": "DesignPro",
+      "location": "Austin, TX",
+      "type": "Contract",
+      "description": "Create intuitive and engaging user interfaces for web and mobile applications. Conduct user research and usability testing.",
+      "salary": "$80,000 - $110,000",
+      "postedDate": "2024-08-03",
+      "requirements": [
+        "Portfolio showcasing UX design work",
+        "Experience with wireframing and prototyping tools",
+        "Strong analytical and problem-solving skills"
+      ],
+      "benefits": [
+        "Health and dental insurance",
+        "Paid time off",
+        "Professional development opportunities"
+      ],
+      "category": [
+        "UX Design",
+        "User Experience",
+        "Design",
+        "Prototyping",
+        "Wireframing"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Data Scientist",
+      "company": "Data Insights LLC",
+      "location": "Chicago, IL",
+      "type": "Full-time",
+      "description": "Analyze complex data sets to derive actionable insights. Develop predictive models and machine learning algorithms.",
+      "salary": "$110,000 - $140,000",
+      "postedDate": "2024-08-04",
+      "requirements": [
+        "Master's degree in Data Science or related field",
+        "Experience with Python, R, and SQL",
+        "Strong statistical and analytical skills"
+      ],
+      "benefits": [
+        "401(k) with company match",
+        "Generous vacation policy",
+        "Health and wellness programs"
+      ],
+      "category": [
+        "Data Science",
+        "Machine Learning",
+        "Analytics",
+        "Big Data",
+        "Python"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Marketing Specialist",
+      "company": "MarketMakers",
+      "location": "Los Angeles, CA",
+      "type": "Part-time",
+      "description": "Develop and execute marketing campaigns. Analyze market trends and customer behavior to optimize marketing strategies.",
+      "salary": "$60,000 - $80,000",
+      "postedDate": "2024-08-05",
+      "requirements": [
+        "Bachelor's degree in Marketing or related field",
+        "1-2 years of experience in marketing",
+        "Strong analytical and communication skills"
+      ],
+      "benefits": [
+        "Remote work flexibility",
+        "Professional training",
+        "Performance bonuses"
+      ],
+      "category": [
+        "Marketing",
+        "Digital Marketing",
+        "Campaign Management",
+        "Market Analysis",
+        "SEO"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "HR Manager",
+      "company": "PeopleFirst Inc.",
+      "location": "Seattle, WA",
+      "type": "Full-time",
+      "description": "Manage recruitment, employee relations, and performance management. Develop HR policies and ensure compliance with labor laws.",
+      "salary": "$90,000 - $120,000",
+      "postedDate": "2024-08-06",
+      "requirements": [
+        "Bachelor's degree in Human Resources or related field",
+        "3+ years of HR management experience",
+        "Strong knowledge of employment law"
+      ],
+      "benefits": [
+        "Health insurance",
+        "Retirement plan",
+        "Work-life balance initiatives"
+      ],
+      "category": [
+        "Human Resources",
+        "HR Management",
+        "Recruitment",
+        "Employee Relations",
+        "Compliance"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "DevOps Engineer",
+      "company": "CloudTech Solutions",
+      "location": "San Jose, CA",
+      "type": "Full-time",
+      "description": "Implement and manage CI/CD pipelines. Automate deployment processes and ensure system reliability and performance.",
+      "salary": "$130,000 - $160,000",
+      "postedDate": "2024-08-07",
+      "requirements": [
+        "Experience with Docker, Kubernetes, and AWS",
+        "Strong scripting skills in Python or Bash",
+        "Knowledge of infrastructure as code (IaC)"
+      ],
+      "benefits": [
+        "Stock options",
+        "Paid parental leave",
+        "Flexible remote work"
+      ],
+      "category": [
+        "DevOps",
+        "CI/CD",
+        "Cloud Computing",
+        "Automation",
+        "AWS"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Graphic Designer",
+      "company": "CreativeVision",
+      "location": "Miami, FL",
+      "type": "Contract",
+      "description": "Design visual content for digital and print media. Collaborate with the marketing team to create engaging graphics and layouts.",
+      "salary": "$70,000 - $90,000",
+      "postedDate": "2024-08-08",
+      "requirements": [
+        "Proficiency in Adobe Creative Suite",
+        "Strong portfolio of design work",
+        "Ability to work on tight deadlines"
+      ],
+      "benefits": [
+        "Remote work opportunities",
+        "Flexible schedule",
+        "Creative environment"
+      ],
+      "category": [
+        "Graphic Design",
+        "Visual Design",
+        "Adobe Creative Suite",
+        "Print Media",
+        "Digital Media"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Sales Executive",
+      "company": "SalesPros Ltd.",
+      "location": "Boston, MA",
+      "type": "Full-time",
+      "description": "Generate new business leads and manage client relationships. Develop sales strategies and achieve sales targets.",
+      "salary": "$90,000 - $120,000 + commission",
+      "postedDate": "2024-08-09",
+      "requirements": [
+        "Proven sales experience",
+        "Excellent negotiation and communication skills",
+        "Ability to work independently and in a team"
+      ],
+      "benefits": [
+        "Health insurance",
+        "Performance incentives",
+        "Career growth opportunities"
+      ],
+      "category": [
+        "Sales",
+        "Business Development",
+        "Client Management",
+        "Lead Generation",
+        "Sales Strategy"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Financial Analyst",
+      "company": "FinanceWorks",
+      "location": "Denver, CO",
+      "type": "Full-time",
+      "description": "Analyze financial data and create financial models. Prepare reports and assist with budgeting and forecasting.",
+      "salary": "$100,000 - $130,000",
+      "postedDate": "2024-08-10",
+      "requirements": [
+        "Bachelor's degree in Finance or Accounting",
+        "Experience with financial modeling and analysis",
+        "Strong proficiency in Excel and financial software"
+      ],
+      "benefits": [
+        "401(k) plan",
+        "Health and dental insurance",
+        "Paid time off"
+      ],
+      "category": [
+        "Finance",
+        "Financial Analysis",
+        "Budgeting",
+        "Forecasting",
+        "Excel"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Customer Support Specialist",
+      "company": "SupportFirst",
+      "location": "Dallas, TX",
+      "type": "Part-time",
+      "description": "Provide exceptional customer support through various channels. Resolve customer issues and provide product information.",
+      "salary": "$45,000 - $55,000",
+      "postedDate": "2024-08-11",
+      "requirements": [
+        "Excellent communication skills",
+        "Experience in customer service",
+        "Ability to handle multiple tasks"
+      ],
+      "benefits": [
+        "Flexible work hours",
+        "Remote work option",
+        "Employee discounts"
+      ],
+      "category": [
+        "Customer Support",
+        "Customer Service",
+        "Client Relations",
+        "Help Desk",
+        "Support"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Network Administrator",
+      "company": "TechNet",
+      "location": "San Diego, CA",
+      "type": "Full-time",
+      "description": "Maintain and manage network infrastructure. Ensure network security and troubleshoot network issues.",
+      "salary": "$80,000 - $100,000",
+      "postedDate": "2024-08-12",
+      "requirements": [
+        "Experience with network hardware and software",
+        "Knowledge of network security protocols",
+        "Certification in network administration (e.g., CCNA)"
+      ],
+      "benefits": [
+        "Health insurance",
+        "401(k) with company match",
+        "Paid vacation"
+      ],
+      "category": [
+        "Network Administration",
+        "IT",
+        "Network Security",
+        "System Administration",
+        "Infrastructure"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Content Writer",
+      "company": "ContentCreators",
+      "location": "Atlanta, GA",
+      "type": "Contract",
+      "description": "Write and edit content for blogs, websites, and marketing materials. Research industry trends and produce high-quality content.",
+      "salary": "$50,000 - $70,000",
+      "postedDate": "2024-08-13",
+      "requirements": [
+        "Excellent writing and editing skills",
+        "Experience in content creation",
+        "Ability to research and adapt to various topics"
+      ],
+      "benefits": [
+        "Flexible schedule",
+        "Remote work",
+        "Creative projects"
+      ],
+      "category": [
+        "Content Writing",
+        "Copywriting",
+        "Editing",
+        "Content Creation",
+        "Blogging"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Business Analyst",
+      "company": "Insightful Solutions",
+      "location": "Philadelphia, PA",
+      "type": "Full-time",
+      "description": "Analyze business processes and identify areas for improvement. Develop and implement solutions to enhance business operations.",
+      "salary": "$85,000 - $105,000",
+      "postedDate": "2024-08-14",
+      "requirements": [
+        "Bachelor's degree in Business or related field",
+        "Experience with business analysis and process improvement",
+        "Strong analytical and problem-solving skills"
+      ],
+      "benefits": [
+        "Health insurance",
+        "401(k) plan",
+        "Paid time off"
+      ],
+      "category": [
+        "Business Analysis",
+        "Process Improvement",
+        "Operations",
+        "Data Analysis",
+        "Strategy"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Web Developer",
+      "company": "WebWorks Inc.",
+      "location": "Orlando, FL",
+      "type": "Full-time",
+      "description": "Design, develop, and maintain websites and web applications. Ensure websites are responsive and perform well across different devices.",
+      "salary": "$70,000 - $90,000",
+      "postedDate": "2024-08-15",
+      "requirements": [
+        "Proficiency in HTML, CSS, and JavaScript",
+        "Experience with front-end frameworks like Angular or Vue.js",
+        "Knowledge of web performance optimization"
+      ],
+      "benefits": [
+        "Flexible working hours",
+        "Remote work options",
+        "Professional development"
+      ],
+      "category": [
+        "Web Development",
+        "Front-End Development",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "SEO Specialist",
+      "company": "RankUp",
+      "location": "San Antonio, TX",
+      "type": "Part-time",
+      "description": "Optimize website content to improve search engine rankings. Conduct keyword research and implement SEO strategies.",
+      "salary": "$55,000 - $75,000",
+      "postedDate": "2024-08-16",
+      "requirements": [
+        "Experience with SEO tools and strategies",
+        "Knowledge of search engine algorithms",
+        "Strong analytical skills"
+      ],
+      "benefits": [
+        "Remote work option",
+        "Flexible hours",
+        "Performance bonuses"
+      ],
+      "category": [
+        "SEO",
+        "Search Engine Optimization",
+        "Digital Marketing",
+        "Keyword Research",
+        "Analytics"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Systems Analyst",
+      "company": "TechSolutions",
+      "location": "Columbus, OH",
+      "type": "Full-time",
+      "description": "Evaluate and improve IT systems and processes. Work with stakeholders to gather requirements and develop technical solutions.",
+      "salary": "$95,000 - $125,000",
+      "postedDate": "2024-08-17",
+      "requirements": [
+        "Bachelor's degree in Computer Science or related field",
+        "Experience with systems analysis and design",
+        "Strong problem-solving abilities"
+      ],
+      "benefits": [
+        "Health insurance",
+        "401(k) with match",
+        "Paid time off"
+      ],
+      "category": [
+        "Systems Analysis",
+        "IT",
+        "Technical Solutions",
+        "Business Systems",
+        "Requirements Gathering"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Customer Success Manager",
+      "company": "SuccessFirst",
+      "location": "Charlotte, NC",
+      "type": "Full-time",
+      "description": "Ensure customer satisfaction and success with the company's products or services. Develop and maintain client relationships.",
+      "salary": "$85,000 - $110,000",
+      "postedDate": "2024-08-18",
+      "requirements": [
+        "Experience in customer success or account management",
+        "Strong communication and interpersonal skills",
+        "Ability to manage multiple client accounts"
+      ],
+      "benefits": [
+        "Health insurance",
+        "Performance incentives",
+        "Career development opportunities"
+      ],
+      "category": [
+        "Customer Success",
+        "Account Management",
+        "Client Relations",
+        "Customer Support",
+        "Retention"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Data Analyst",
+      "company": "DataViz",
+      "location": "Nashville, TN",
+      "type": "Contract",
+      "description": "Collect, process, and analyze data to help guide business decisions. Create visualizations and reports based on data insights.",
+      "salary": "$65,000 - $85,000",
+      "postedDate": "2024-08-19",
+      "requirements": [
+        "Experience with data visualization tools like Tableau",
+        "Strong analytical and statistical skills",
+        "Proficiency in SQL and Excel"
+      ],
+      "benefits": [
+        "Flexible working hours",
+        "Remote work options",
+        "Professional training"
+      ],
+      "category": [
+        "Data Analysis",
+        "Data Visualization",
+        "SQL",
+        "Reporting",
+        "Analytics"
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Content Marketing Manager",
+      "company": "ContentGenius",
+      "location": "Minneapolis, MN",
+      "type": "Full-time",
+      "description": "Develop and manage content marketing strategies. Oversee content creation and distribution to engage target audiences.",
+      "salary": "$90,000 - $120,000",
+      "postedDate": "2024-08-20",
+      "requirements": [
+        "Experience in content marketing and strategy",
+        "Strong writing and editing skills",
+        "Knowledge of content management systems"
+      ],
+      "benefits": [
+        "Health insurance",
+        "401(k) plan",
+        "Paid vacation"
+      ],
+      "category": [
+        "Content Marketing",
+        "Marketing Strategy",
+        "Content Creation",
+        "Digital Marketing",
+        "CMS"
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Java Developer",
+      "company": "CodeCraft",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "description": "Develop and maintain Java-based applications. Collaborate with development teams to create robust and scalable software solutions.",
+      "salary": "$110,000 - $140,000",
+      "postedDate": "2024-08-21",
+      "requirements": [
+        "Experience with Java and related technologies",
+        "Knowledge of RESTful APIs",
+        "Ability to work in an Agile environment"
+      ],
+      "benefits": [
+        "Health benefits",
+        "401(k) matching",
+        "Flexible work schedule"
+      ],
+      "category": [
+        "Java Development",
+        "Software Engineering",
+        "Back-End Development",
+        "APIs",
+        "Agile"
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Front-End Developer",
+      "company": "WebInnovate",
+      "location": "Austin, TX",
+      "type": "Full-time",
+      "description": "Build and maintain the user-facing parts of web applications. Work with designers and back-end developers to create seamless user experiences.",
+      "salary": "$75,000 - $95,000",
+      "postedDate": "2024-08-22",
+      "requirements": [
+        "Proficiency in HTML, CSS, and JavaScript",
+        "Experience with front-end frameworks like React or Vue.js",
+        "Strong understanding of responsive design"
+      ],
+      "benefits": [
+        "Remote work options",
+        "Health insurance",
+        "Professional development"
+      ],
+      "category": [
+        "Front-End Development",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Responsive Design"
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Database Administrator",
+      "company": "DataWorks",
+      "location": "Chicago, IL",
+      "type": "Full-time",
+      "description": "Manage and maintain database systems. Ensure data integrity, security, and performance across various databases.",
+      "salary": "$90,000 - $115,000",
+      "postedDate": "2024-08-23",
+      "requirements": [
+        "Experience with SQL and NoSQL databases",
+        "Strong knowledge of database security and backup strategies",
+        "Ability to troubleshoot and resolve database issues"
+      ],
+      "benefits": [
+        "401(k) plan",
+        "Health and dental insurance",
+        "Paid time off"
+      ],
+      "category": [
+        "Database Administration",
+        "SQL",
+        "NoSQL",
+        "Data Security",
+        "Database Management"
+      ]
+    },
+    {
+      "id": 24,
+      "title": "DevOps Engineer",
+      "company": "CloudTech",
+      "location": "Seattle, WA",
+      "type": "Full-time",
+      "description": "Design and implement continuous integration and delivery pipelines. Manage cloud infrastructure and automate deployment processes.",
+      "salary": "$130,000 - $160,000",
+      "postedDate": "2024-08-24",
+      "requirements": [
+        "Experience with Docker, Kubernetes, and CI/CD tools",
+        "Proficiency in scripting languages like Python or Bash",
+        "Strong knowledge of cloud platforms like AWS or Azure"
+      ],
+      "benefits": [
+        "Stock options",
+        "Health insurance",
+        "Flexible working hours"
+      ],
+      "category": [
+        "DevOps",
+        "CI/CD",
+        "Cloud Computing",
+        "Automation",
+        "Kubernetes"
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Digital Marketer",
+      "company": "MarketGrowth",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "description": "Develop and execute digital marketing campaigns across various platforms. Analyze performance metrics and optimize strategies for growth.",
+      "salary": "$80,000 - $100,000",
+      "postedDate": "2024-08-25",
+      "requirements": [
+        "Experience with SEO, SEM, and social media marketing",
+        "Strong analytical and reporting skills",
+        "Knowledge of digital marketing tools"
+      ],
+      "benefits": [
+        "Health benefits",
+        "Remote work option",
+        "Performance bonuses"
+      ],
+      "category": [
+        "Digital Marketing",
+        "SEO",
+        "SEM",
+        "Social Media",
+        "Marketing Analytics"
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Systems Engineer",
+      "company": "TechSys",
+      "location": "Dallas, TX",
+      "type": "Full-time",
+      "description": "Design and implement system solutions to meet business needs. Ensure system reliability, performance, and security.",
+      "salary": "$95,000 - $125,000",
+      "postedDate": "2024-08-26",
+      "requirements": [
+        "Experience with system architecture and design",
+        "Knowledge of system performance tuning",
+        "Proficiency in scripting languages"
+      ],
+      "benefits": [
+        "401(k) matching",
+        "Health insurance",
+        "Paid time off"
+      ],
+      "category": [
+        "Systems Engineering",
+        "IT",
+        "System Design",
+        "Performance Tuning",
+        "Scripting"
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Project Coordinator",
+      "company": "ProjectPulse",
+      "location": "San Diego, CA",
+      "type": "Contract",
+      "description": "Coordinate and manage project activities. Ensure projects are delivered on time, within scope, and on budget.",
+      "salary": "$65,000 - $85,000",
+      "postedDate": "2024-08-27",
+      "requirements": [
+        "Experience in project coordination or management",
+        "Strong organizational and communication skills",
+        "Knowledge of project management tools"
+      ],
+      "benefits": [
+        "Flexible working hours",
+        "Remote work options",
+        "Career growth opportunities"
+      ],
+      "category": [
+        "Project Coordination",
+        "Project Management",
+        "Organizational Skills",
+        "Team Management",
+        "Scheduling"
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Cloud Architect",
+      "company": "CloudMasters",
+      "location": "San Jose, CA",
+      "type": "Full-time",
+      "description": "Design and implement cloud-based solutions. Work with clients to understand their needs and provide scalable cloud architecture.",
+      "salary": "$140,000 - $180,000",
+      "postedDate": "2024-08-28",
+      "requirements": [
+        "Experience with cloud platforms like AWS, Azure, or GCP",
+        "Strong understanding of cloud architecture principles",
+        "Ability to design scalable and secure cloud solutions"
+      ],
+      "benefits": [
+        "Stock options",
+        "Comprehensive health benefits",
+        "Flexible work environment"
+      ],
+      "category": [
+        "Cloud Architecture",
+        "AWS",
+        "Azure",
+        "GCP",
+        "Scalability"
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Network Engineer",
+      "company": "NetTech",
+      "location": "Boston, MA",
+      "type": "Full-time",
+      "description": "Design, implement, and manage network solutions. Ensure network security, performance, and reliability.",
+      "salary": "$85,000 - $110,000",
+      "postedDate": "2024-08-29",
+      "requirements": [
+        "Experience with network design and management",
+        "Knowledge of network security practices",
+        "Certifications like CCNA or CompTIA Network+"
+      ],
+      "benefits": [
+        "Health insurance",
+        "401(k) plan",
+        "Paid vacation"
+      ],
+      "category": [
+        "Network Engineering",
+        "Network Design",
+        "Security",
+        "CCNA",
+        "CompTIA Network+"
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Content Strategist",
+      "company": "StrategyHub",
+      "location": "Philadelphia, PA",
+      "type": "Full-time",
+      "description": "Develop and execute content strategies to enhance brand presence. Work with marketing and creative teams to produce compelling content.",
+      "salary": "$85,000 - $115,000",
+      "postedDate": "2024-08-30",
+      "requirements": [
+        "Experience in content strategy and planning",
+        "Strong writing and analytical skills",
+        "Knowledge of content marketing best practices"
+      ],
+      "benefits": [
+        "Health insurance",
+        "Flexible working hours",
+        "Remote work options"
+      ],
+      "category": [
+        "Content Strategy",
+        "Marketing",
+        "Content Creation",
+        "Brand Management",
+        "Analytics"
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Business Development Manager",
+      "company": "GrowthPartners",
+      "location": "Charlotte, NC",
+      "type": "Full-time",
+      "description": "Identify and develop new business opportunities. Build relationships with potential clients and partners to drive growth.",
+      "salary": "$100,000 - $130,000",
+      "postedDate": "2024-08-31",
+      "requirements": [
+        "Experience in business development or sales",
+        "Strong networking and relationship-building skills",
+        "Ability to develop and implement growth strategies"
+      ],
+      "benefits": [
+        "Stock options",
+        "Health benefits",
+        "Career advancement opportunities"
+      ],
+      "category": [
+        "Business Development",
+        "Sales",
+        "Client Relations",
+        "Networking",
+        "Growth Strategies"
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Software Tester",
+      "company": "Testify",
+      "location": "Dallas, TX",
+      "type": "Full-time",
+      "description": "Design and execute test plans to ensure software quality. Identify and document defects and work with development teams to resolve issues.",
+      "salary": "$70,000 - $90,000",
+      "postedDate": "2024-09-01",
+      "requirements": [
+        "Experience with manual and automated testing",
+        "Knowledge of testing tools and methodologies",
+        "Strong attention to detail"
+      ],
+      "benefits": [
+        "Health insurance",
+        "Flexible hours",
+        "Professional development"
+      ],
+      "category": [
+        "Software Testing",
+        "Quality Assurance",
+        "Testing Tools",
+        "Automation",
+        "Defect Tracking"
+      ]
+    },
+    {
+      "id": 33,
+      "title": "UX/UI Designer",
+      "company": "DesignCraft",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "description": "Create and improve user interfaces and experiences for web and mobile applications. Collaborate with developers and product managers to design intuitive and engaging interfaces.",
+      "salary": "$90,000 - $120,000",
+      "postedDate": "2024-09-02",
+      "requirements": [
+        "Experience with UX/UI design tools like Figma or Adobe XD",
+        "Strong portfolio showcasing design skills",
+        "Knowledge of user-centered design principles"
+      ],
+      "benefits": [
+        "Health benefits",
+        "Remote work options",
+        "Creative work environment"
+      ],
+      "category": [
+        "UX Design",
+        "UI Design",
+        "Figma",
+        "Adobe XD",
+        "User-Centered Design"
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Product Manager",
+      "company": "InnovateTech",
+      "location": "Austin, TX",
+      "type": "Full-time",
+      "description": "Oversee the development and delivery of products. Work with cross-functional teams to define product vision, strategy, and roadmap.",
+      "salary": "$120,000 - $150,000",
+      "postedDate": "2024-09-03",
+      "requirements": [
+        "Experience in product management",
+        "Strong understanding of product lifecycle",
+        "Ability to work with development and design teams"
+      ],
+      "benefits": [
+        "Stock options",
+        "Health insurance",
+        "Career development opportunities"
+      ],
+      "category": [
+        "Product Management",
+        "Product Development",
+        "Product Strategy",
+        "Roadmap",
+        "Cross-Functional Teams"
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Marketing Manager",
+      "company": "BrandBoost",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "description": "Develop and implement marketing strategies to promote the company's products or services. Manage marketing campaigns and analyze their effectiveness.",
+      "salary": "$95,000 - $125,000",
+      "postedDate": "2024-09-04",
+      "requirements": [
+        "Experience in marketing and campaign management",
+        "Strong analytical and project management skills",
+        "Knowledge of marketing tools and platforms"
+      ],
+      "benefits": [
+        "Health benefits",
+        "401(k) plan",
+        "Performance bonuses"
+      ],
+      "category": [
+        "Marketing",
+        "Campaign Management",
+        "Marketing Strategies",
+        "Project Management",
+        "Analytics"
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Graphic Designer",
+      "company": "VisualWorks",
+      "location": "San Diego, CA",
+      "type": "Full-time",
+      "description": "Create visual content for print and digital media. Design graphics for marketing materials, websites, and social media.",
+      "salary": "$70,000 - $90,000",
+      "postedDate": "2024-09-05",
+      "requirements": [
+        "Proficiency in Adobe Creative Suite",
+        "Strong design portfolio",
+        "Ability to work with various design tools and software"
+      ],
+      "benefits": [
+        "Health insurance",
+        "Flexible hours",
+        "Creative work environment"
+      ],
+      "category": [
+        "Graphic Design",
+        "Adobe Creative Suite",
+        "Visual Content",
+        "Marketing Materials",
+        "Web Design"
+      ]
+    },
+    {
+      "id": 37,
+      "title": "HR Manager",
+      "company": "PeopleFirst",
+      "location": "Chicago, IL",
+      "type": "Full-time",
+      "description": "Manage HR functions including recruitment, employee relations, and compliance. Develop HR policies and programs to support organizational goals.",
+      "salary": "$90,000 - $115,000",
+      "postedDate": "2024-09-06",
+      "requirements": [
+        "Experience in human resources management",
+        "Strong knowledge of HR laws and regulations",
+        "Excellent interpersonal and communication skills"
+      ],
+      "benefits": [
+        "Health benefits",
+        "401(k) plan",
+        "Paid time off"
+      ],
+      "category": [
+        "Human Resources",
+        "Recruitment",
+        "Employee Relations",
+        "HR Compliance",
+        "Policy Development"
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Sales Engineer",
+      "company": "TechSell",
+      "location": "Atlanta, GA",
+      "type": "Full-time",
+      "description": "Provide technical support and solutions to sales teams and customers. Demonstrate product capabilities and address technical questions.",
+      "salary": "$95,000 - $125,000",
+      "postedDate": "2024-09-07",
+      "requirements": [
+        "Experience in sales engineering or technical sales",
+        "Strong technical background in relevant technologies",
+        "Ability to communicate technical concepts effectively"
+      ],
+      "benefits": [
+        "Health insurance",
+        "401(k) with company match",
+        "Sales incentives"
+      ],
+      "category": [
+        "Sales Engineering",
+        "Technical Sales",
+        "Product Demonstrations",
+        "Technical Support",
+        "Customer Solutions"
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Mobile App Developer",
+      "company": "AppMakers",
+      "location": "San Jose, CA",
+      "type": "Full-time",
+      "description": "Develop and maintain mobile applications for iOS and Android platforms. Work with cross-functional teams to deliver high-quality apps.",
+      "salary": "$110,000 - $140,000",
+      "postedDate": "2024-09-08",
+      "requirements": [
+        "Experience with iOS and Android development",
+        "Proficiency in Swift, Kotlin, or React Native",
+        "Strong understanding of mobile app architecture"
+      ],
+      "benefits": [
+        "Stock options",
+        "Health insurance",
+        "Flexible working hours"
+      ],
+      "category": [
+        "Mobile Development",
+        "iOS",
+        "Android",
+        "React Native",
+        "App Architecture"
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Cybersecurity Analyst",
+      "company": "SecureNet",
+      "location": "Seattle, WA",
+      "type": "Full-time",
+      "description": "Monitor and protect IT systems against security threats. Conduct security assessments and respond to incidents.",
+      "salary": "$105,000 - $135,000",
+      "postedDate": "2024-09-09",
+      "requirements": [
+        "Experience with security tools and practices",
+        "Knowledge of cybersecurity threats and mitigation strategies",
+        "Certifications like CISSP or CEH"
+      ],
+      "benefits": [
+        "Health insurance",
+        "401(k) matching",
+        "Career advancement opportunities"
+      ],
+      "category": [
+        "Cybersecurity",
+        "Security Analysis",
+        "Incident Response",
+        "Threat Management",
+        "CISSP"
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Application Support Specialist",
+      "company": "AppSupport",
+      "location": "Boston, MA",
+      "type": "Full-time",
+      "description": "Provide support for application issues and technical problems. Troubleshoot and resolve application-related problems for users.",
+      "salary": "$70,000 - $90,000",
+      "postedDate": "2024-09-10",
+      "requirements": [
+        "Experience with application support and troubleshooting",
+        "Strong problem-solving skills",
+        "Knowledge of relevant software and tools"
+      ],
+      "benefits": [
+        "Health benefits",
+        "Flexible hours",
+        "Professional development"
+      ],
+      "category": [
+        "Application Support",
+        "Technical Support",
+        "Troubleshooting",
+        "Software Tools",
+        "User Support"
+      ]
+    },
+    {
+      "id": 42,
+      "title": "AI Engineer",
+      "company": "InnovAI",
+      "location": "San Diego, CA",
+      "type": "Full-time",
+      "description": "Design and develop artificial intelligence solutions. Work on machine learning models and algorithms to enhance AI capabilities.",
+      "salary": "$120,000 - $150,000",
+      "postedDate": "2024-09-11",
+      "requirements": [
+        "Experience with machine learning frameworks",
+        "Strong programming skills in Python or R",
+        "Knowledge of AI algorithms and data science"
+      ],
+      "benefits": [
+        "Stock options",
+        "Health insurance",
+        "Flexible working hours"
+      ],
+      "category": [
+        "AI Engineering",
+        "Machine Learning",
+        "Data Science",
+        "Python",
+        "Algorithms"
+      ]
+    },
+    {
+      "id": 43,
+      "title": "E-commerce Specialist",
+      "company": "ShopTech",
+      "location": "Chicago, IL",
+      "type": "Contract",
+      "description": "Manage and optimize e-commerce platforms. Develop strategies to increase online sales and improve user experience.",
+      "salary": "$85,000 - $110,000",
+      "postedDate": "2024-09-12",
+      "requirements": [
+        "Experience with e-commerce platforms",
+        "Strong understanding of online sales strategies",
+        "Ability to analyze and improve e-commerce performance"
+      ],
+      "benefits": [
+        "Health benefits",
+        "Remote work options",
+        "Performance bonuses"
+      ],
+      "category": [
+        "E-commerce",
+        "Online Sales",
+        "Platform Management",
+        "Performance Optimization",
+        "User Experience"
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Data Scientist",
+      "company": "DataX",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "description": "Analyze complex data sets to provide actionable insights. Develop predictive models and data visualizations to support decision-making.",
+      "salary": "$130,000 - $160,000",
+      "postedDate": "2024-09-13",
+      "requirements": [
+        "Experience with data analysis and statistical methods",
+        "Proficiency in data science tools and languages like Python or R",
+        "Strong analytical and problem-solving skills"
+      ],
+      "benefits": [
+        "Stock options",
+        "Health insurance",
+        "Flexible work environment"
+      ],
+      "category": [
+        "Data Science",
+        "Data Analysis",
+        "Statistical Methods",
+        "Python",
+        "R"
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Web Developer",
+      "company": "WebSolutions",
+      "location": "Seattle, WA",
+      "type": "Full-time",
+      "description": "Build and maintain websites and web applications. Collaborate with designers and other developers to create user-friendly web experiences.",
+      "salary": "$75,000 - $95,000",
+      "postedDate": "2024-09-14",
+      "requirements": [
+        "Experience with web development technologies",
+        "Proficiency in HTML, CSS, and JavaScript",
+        "Knowledge of web performance optimization"
+      ],
+      "benefits": [
+        "Health benefits",
+        "Flexible working hours",
+        "Remote work options"
+      ],
+      "category": [
+        "Web Development",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Web Optimization"
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Business Analyst",
+      "company": "AnalyzePro",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "description": "Analyze business processes and requirements to provide solutions. Develop reports and recommendations to improve business operations.",
+      "salary": "$80,000 - $100,000",
+      "postedDate": "2024-09-15",
+      "requirements": [
+        "Experience with business analysis and process improvement",
+        "Strong analytical and problem-solving skills",
+        "Proficiency in business analysis tools"
+      ],
+      "benefits": [
+        "Health benefits",
+        "401(k) matching",
+        "Paid vacation"
+      ],
+      "category": [
+        "Business Analysis",
+        "Process Improvement",
+        "Reporting",
+        "Recommendations",
+        "Operational Efficiency"
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Data Engineer",
+      "company": "DataStream",
+      "location": "Atlanta, GA",
+      "type": "Full-time",
+      "description": "Design and build data pipelines and architectures. Ensure data quality and availability for analytics and business intelligence.",
+      "salary": "$110,000 - $140,000",
+      "postedDate": "2024-09-16",
+      "requirements": [
+        "Experience with data engineering and pipeline development",
+        "Proficiency in SQL and data modeling",
+        "Knowledge of data warehousing solutions"
+      ],
+      "benefits": [
+        "Stock options",
+        "Health insurance",
+        "Flexible working hours"
+      ],
+      "category": [
+        "Data Engineering",
+        "Data Pipelines",
+        "SQL",
+        "Data Modeling",
+        "Data Warehousing"
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Technical Writer",
+      "company": "WriteTech",
+      "location": "Boston, MA",
+      "type": "Contract",
+      "description": "Create and manage technical documentation for software and hardware products. Ensure documentation is clear, accurate, and user-friendly.",
+      "salary": "$65,000 - $85,000",
+      "postedDate": "2024-09-17",
+      "requirements": [
+        "Experience with technical writing",
+        "Strong writing and editing skills",
+        "Ability to understand and explain complex technical concepts"
+      ],
+      "benefits": [
+        "Health benefits",
+        "Flexible hours",
+        "Remote work options"
+      ],
+      "category": [
+        "Technical Writing",
+        "Documentation",
+        "Editing",
+        "Technical Communication",
+        "Software Documentation"
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Systems Analyst",
+      "company": "SystemWorks",
+      "location": "San Jose, CA",
+      "type": "Full-time",
+      "description": "Analyze and improve IT systems to meet business needs. Collaborate with stakeholders to gather requirements and implement system changes.",
+      "salary": "$85,000 - $105,000",
+      "postedDate": "2024-09-18",
+      "requirements": [
+        "Experience in systems analysis and design",
+        "Strong analytical and problem-solving skills",
+        "Ability to work with cross-functional teams"
+      ],
+      "benefits": [
+        "Health benefits",
+        "401(k) matching",
+        "Paid time off"
+      ],
+      "category": [
+        "Systems Analysis",
+        "IT Systems",
+        "Requirements Gathering",
+        "System Design",
+        "Cross-Functional Teams"
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Cloud Solutions Architect",
+      "company": "CloudExperts",
+      "location": "Chicago, IL",
+      "type": "Full-time",
+      "description": "Design and implement cloud-based solutions for clients. Work on cloud architecture and ensure solutions are scalable and secure.",
+      "salary": "$135,000 - $170,000",
+      "postedDate": "2024-09-19",
+      "requirements": [
+        "Experience with cloud architecture and design",
+        "Strong knowledge of cloud platforms like AWS, Azure, or GCP",
+        "Ability to create scalable and secure cloud solutions"
+      ],
+      "benefits": [
+        "Stock options",
+        "Health insurance",
+        "Flexible work environment"
+      ],
+      "category": [
+        "Cloud Solutions",
+        "Cloud Architecture",
+        "AWS",
+        "Azure",
+        "GCP"
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Video Game Designer",
+      "company": "GameHub",
+      "location": "Austin, TX",
+      "type": "Full-time",
+      "description": "Design and develop video game concepts and mechanics. Collaborate with artists and developers to create engaging gameplay experiences.",
+      "salary": "$85,000 - $115,000",
+      "postedDate": "2024-09-20",
+      "requirements": [
+        "Experience with game design tools",
+        "Strong portfolio of game projects",
+        "Knowledge of game mechanics and player experience"
+      ],
+      "benefits": [
+        "Health insurance",
+        "Flexible working hours",
+        "Creative work environment"
+      ],
+      "category": [
+        "Game Design",
+        "Video Games",
+        "Game Mechanics",
+        "Game Development",
+        "Creative Design"
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Customer Support Specialist",
+      "company": "SupportPlus",
+      "location": "Dallas, TX",
+      "type": "Full-time",
+      "description": "Provide support to customers via phone, email, and chat. Resolve customer issues and ensure a high level of satisfaction.",
+      "salary": "$55,000 - $75,000",
+      "postedDate": "2024-09-21",
+      "requirements": [
+        "Strong communication skills",
+        "Experience in customer support",
+        "Ability to handle customer complaints and issues"
+      ],
+      "benefits": [
+        "Health benefits",
+        "Paid time off",
+        "Career growth opportunities"
+      ],
+      "category": [
+        "Customer Support",
+        "Customer Service",
+        "Technical Support",
+        "Client Relations",
+        "Issue Resolution"
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Database Administrator",
+      "company": "DataSafe",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "description": "Manage and maintain databases to ensure their performance, security, and availability. Perform database backups and recovery.",
+      "salary": "$95,000 - $125,000",
+      "postedDate": "2024-09-22",
+      "requirements": [
+        "Experience with database management systems",
+        "Strong knowledge of SQL and database optimization",
+        "Ability to troubleshoot and resolve database issues"
+      ],
+      "benefits": [
+        "Health insurance",
+        "401(k) with matching",
+        "Professional development"
+      ],
+      "category": [
+        "Database Administration",
+        "SQL",
+        "Database Management",
+        "Database Optimization",
+        "Data Security"
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Network Engineer",
+      "company": "NetTech",
+      "location": "San Francisco, CA",
+      "type": "Full-time",
+      "description": "Design and implement network solutions to support business operations. Monitor network performance and troubleshoot issues.",
+      "salary": "$105,000 - $135,000",
+      "postedDate": "2024-09-23",
+      "requirements": [
+        "Experience with network design and management",
+        "Knowledge of network protocols and security",
+        "Certifications such as CCNA or CompTIA Network+"
+      ],
+      "benefits": [
+        "Health benefits",
+        "Stock options",
+        "Remote work options"
+      ],
+      "category": [
+        "Network Engineering",
+        "Network Design",
+        "Network Security",
+        "IT Infrastructure",
+        "Network Management"
+      ]
+    },
+    {
+      "id": 55,
+      "title": "SEO Specialist",
+      "company": "SEOBoost",
+      "location": "Chicago, IL",
+      "type": "Full-time",
+      "description": "Optimize website content to improve search engine rankings. Analyze performance and develop SEO strategies.",
+      "salary": "$80,000 - $100,000",
+      "postedDate": "2024-09-24",
+      "requirements": [
+        "Experience with SEO tools and techniques",
+        "Strong understanding of search engine algorithms",
+        "Ability to analyze and improve SEO performance"
+      ],
+      "benefits": [
+        "Health insurance",
+        "Performance bonuses",
+        "Flexible hours"
+      ],
+      "category": [
+        "SEO",
+        "Search Engine Optimization",
+        "Digital Marketing",
+        "Content Optimization",
+        "SEO Strategies"
+      ]
+    },
+    {
+      "id": 56,
+      "title": "IT Project Manager",
+      "company": "TechProject",
+      "location": "San Diego, CA",
+      "type": "Full-time",
+      "description": "Manage IT projects from initiation to completion. Coordinate with stakeholders and ensure projects are delivered on time and within budget.",
+      "salary": "$110,000 - $140,000",
+      "postedDate": "2024-09-25",
+      "requirements": [
+        "Experience in IT project management",
+        "Strong organizational and leadership skills",
+        "Proficiency in project management tools"
+      ],
+      "benefits": [
+        "Health benefits",
+        "401(k) plan",
+        "Career advancement opportunities"
+      ],
+      "category": [
+        "Project Management",
+        "IT Management",
+        "Stakeholder Coordination",
+        "Project Planning",
+        "Budget Management"
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Business Development Manager",
+      "company": "GrowthCo",
+      "location": "Atlanta, GA",
+      "type": "Full-time",
+      "description": "Identify and pursue new business opportunities. Develop and maintain relationships with potential clients and partners.",
+      "salary": "$100,000 - $130,000",
+      "postedDate": "2024-09-26",
+      "requirements": [
+        "Experience in business development or sales",
+        "Strong networking and negotiation skills",
+        "Ability to develop and implement business strategies"
+      ],
+      "benefits": [
+        "Health benefits",
+        "Performance bonuses",
+        "Flexible work environment"
+      ],
+      "category": [
+        "Business Development",
+        "Sales",
+        "Client Relations",
+        "Strategic Planning",
+        "Networking"
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Digital Marketing Manager",
+      "company": "MarketReach",
+      "location": "Boston, MA",
+      "type": "Full-time",
+      "description": "Plan and execute digital marketing campaigns. Analyze performance metrics and optimize strategies to improve ROI.",
+      "salary": "$95,000 - $125,000",
+      "postedDate": "2024-09-27",
+      "requirements": [
+        "Experience with digital marketing strategies",
+        "Strong analytical skills",
+        "Proficiency in digital marketing tools and platforms"
+      ],
+      "benefits": [
+        "Health benefits",
+        "401(k) plan",
+        "Remote work options"
+      ],
+      "category": [
+        "Digital Marketing",
+        "Campaign Management",
+        "Analytics",
+        "ROI Optimization",
+        "Marketing Tools"
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Cloud Engineer",
+      "company": "CloudTech",
+      "location": "San Jose, CA",
+      "type": "Full-time",
+      "description": "Design and implement cloud-based solutions and services. Manage cloud infrastructure and ensure system scalability and security.",
+      "salary": "$115,000 - $145,000",
+      "postedDate": "2024-09-28",
+      "requirements": [
+        "Experience with cloud platforms like AWS or Azure",
+        "Knowledge of cloud infrastructure and services",
+        "Ability to troubleshoot and resolve cloud-related issues"
+      ],
+      "benefits": [
+        "Health insurance",
+        "Stock options",
+        "Flexible working hours"
+      ],
+      "category": [
+        "Cloud Engineering",
+        "AWS",
+        "Azure",
+        "Cloud Infrastructure",
+        "Scalability"
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Product Designer",
+      "company": "DesignPro",
+      "location": "New York, NY",
+      "type": "Full-time",
+      "description": "Design and develop product prototypes and user interfaces. Collaborate with engineering and marketing teams to bring products to market.",
+      "salary": "$90,000 - $120,000",
+      "postedDate": "2024-09-29",
+      "requirements": [
+        "Experience with product design tools",
+        "Strong portfolio showcasing design work",
+        "Ability to collaborate with cross-functional teams"
+      ],
+      "benefits": [
+        "Health benefits",
+        "401(k) matching",
+        "Creative work environment"
+      ],
+      "category": [
+        "Product Design",
+        "Prototyping",
+        "User Interfaces",
+        "Cross-Functional Collaboration",
+        "Design Tools"
+      ]
+    },
+    {
+      "id": 61,
+      "title": "DevOps Engineer",
+      "company": "DevOpsLab",
+      "location": "Seattle, WA",
+      "type": "Full-time",
+      "description": "Implement and manage DevOps practices and tools. Automate deployment processes and ensure the reliability of software systems.",
+      "salary": "$110,000 - $140,000",
+      "postedDate": "2024-09-30",
+      "requirements": [
+        "Experience with DevOps tools and practices",
+        "Knowledge of CI/CD pipelines",
+        "Strong understanding of automation and cloud services"
+      ],
+      "benefits": [
+        "Health insurance",
+        "Stock options",
+        "Flexible working hours"
+      ],
+      "category": [
+        "DevOps",
+        "CI/CD",
+        "Automation",
+        "Cloud Services",
+        "Software Reliability"
+      ]
+    },
+    {
+      "id": 62,
+      "title": "z",
+      "company": "z",
+      "location": "z",
+      "type": "z",
+      "description": "z",
+      "salary": "z",
+      "postedDate": "2024-08-06",
+      "requirements": []
+    }
+  ]
+}
